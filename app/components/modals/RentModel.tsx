@@ -3,7 +3,6 @@
 import useRentModal from "@/app/hooks/useRentModal"
 import Modal from "./Modal"
 import { useMemo,useState } from "react";
-import { set } from "mongoose";
 import Heading from "../Heading";
 import { categories } from "../navbar/Categories";
 import CategoryInput from "../Inputs/CategoryInput";
@@ -69,7 +68,7 @@ function RentModel() {
 
   const Map = useMemo(()=> dynamic(()=>import('../Map'),{
     ssr:false
-  }), [location])
+  }), [])
 
   const setCustomValue = (id:string, value:any)=>{
     setValue(id, value, {
