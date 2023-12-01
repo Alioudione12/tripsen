@@ -6,6 +6,14 @@
 ## Il s'agit d'un référentiel pour un booking Full Stack avec le routeur d'application Next.js 13 : React, Tailwind, Prisma, MongoDB, NextAuth.
 
 # Features:
+
+Table, like this one :
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
 ```bash
 Tailwind design
 ```
