@@ -2,6 +2,7 @@
 <a href="(https://github.com/Alioudione12/tripsen)">
     <img src="tripapp.jpg" alt="Logo" width=100% height=100% >
   </a>
+  <img src="tripapp.jpg" alt="Logo" width=100% height=100% >
 First, run the development server:
 
 ```bash
