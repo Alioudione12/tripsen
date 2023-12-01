@@ -9,10 +9,10 @@
 
 Table, like this one :
 
-First Header  | Second Header | Second Header
-------------- | ------------- | -------------
-Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell
+First Header  | Second Header | Second Header | First Header  | Second Header | Second Header
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
+Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
 
 ```bash
 Tailwind design
