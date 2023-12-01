@@ -3,7 +3,7 @@
 | col 1      | col 2      |
 |------------|-------------|
 <p align="center">
-<img src="tripsen.jpg" alt="Logo" width=100% height=100% >
+|<img src="tripsen.jpg" alt="Logo" width=100% height=100% >|
 <img src="tripapp.jpg" alt="Logo" width=80% height=80% >
 <img src="app2.jpg" alt="Logo" width=50% height=50% >
 </p>
