@@ -1,4 +1,4 @@
-## Getting Started
+## Full Stack booking application with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
 
 First, run the development server:
 
