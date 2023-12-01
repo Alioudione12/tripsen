@@ -3,8 +3,7 @@
 <img src="tripapp.jpg" alt="Logo" width=80% height=80% >
 <img src="app2.jpg" alt="Logo" width=50% height=50% >
   First, run the development server:
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+
 
 ```bash
 npm run dev
