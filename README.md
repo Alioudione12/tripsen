@@ -1,5 +1,6 @@
 ## Full Stack booking application with Next.js 13 App Router: React, Tailwind, Prisma, MongoDB, NextAuth 2023
 <picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
 <img src="tripsen.jpg" alt="Logo" width=100% height=100% >
 <img src="tripapp.jpg" alt="Logo" width=80% height=80% >
   <img src="app2.jpg" alt="Logo" width=50% height=50% >
