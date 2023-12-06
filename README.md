@@ -5,20 +5,8 @@
 
 #### Il s'agit d'un référentiel pour un booking Full Stack avec le routeur d'application Next.js 13 : React, Tailwind, Prisma, MongoDB, NextAuth.
 
-# Features:
-
-Table, like this one :
-
-First Header  | Second Header | Second Header | First Header  | Second Header | Second Header
-------------- | ------------- | ------------- | ------------- | ------------- | -------------
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell
-
+### Features Technologies
 ```bash
-Tailwind design
-```
 - Tailwind design
 - Tailwind animations and effects
 - Full responsiveness
@@ -44,21 +32,5 @@ Lets say you select a category, location and date range, you will be able to sha
 - How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
 - How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 - How to handle relations between Server and Child components!
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
+```
 
