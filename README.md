@@ -6,7 +6,7 @@
 #### Il s'agit d'un référentiel pour un booking Full Stack avec le routeur d'application Next.js 13 : React, Tailwind, Prisma, MongoDB, NextAuth.
 
 ### Features Technologies
-```bash
+
 - Tailwind design
 - Tailwind animations and effects
 - Full responsiveness
@@ -32,5 +32,5 @@ Lets say you select a category, location and date range, you will be able to sha
 - How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
 - How to handle files like error.tsx and loading.tsx which are new Next 13 templating files to unify loading and error handling
 - How to handle relations between Server and Child components!
-```
+
 
